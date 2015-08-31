@@ -1,0 +1,1 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Action-Func\bin\Debug\Action-Func.exe.config

@@ -1,0 +1,12 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\bin\Debug\01CustomLINQExtensionMethods.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\01CustomLINQExtensionMethods\obj\Debug\01CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache

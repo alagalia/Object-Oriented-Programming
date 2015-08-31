@@ -1,0 +1,6 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\bin\Debug\03AsynchronousTimer.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\bin\Debug\03AsynchronousTimer.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\bin\Debug\03AsynchronousTimer.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\obj\Debug\03AsynchronousTimer.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\obj\Debug\03AsynchronousTimer.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\03AsynchronousTimer\obj\Debug\03AsynchronousTimer.pdb

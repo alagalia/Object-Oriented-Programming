@@ -1,0 +1,6 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\bin\Debug\Predicates.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\obj\Debug\Predicates.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\bin\Debug\Predicates.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\bin\Debug\Predicates.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\obj\Debug\Predicates.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Class-Exercises\Predicates\obj\Debug\Predicates.pdb

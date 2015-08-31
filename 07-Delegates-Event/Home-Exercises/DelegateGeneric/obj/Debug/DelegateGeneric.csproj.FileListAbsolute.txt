@@ -1,0 +1,5 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\DelegateGeneric\bin\Debug\DelegateGeneric.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\DelegateGeneric\bin\Debug\DelegateGeneric.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\DelegateGeneric\bin\Debug\DelegateGeneric.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\DelegateGeneric\obj\Debug\DelegateGeneric.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\DelegateGeneric\obj\Debug\DelegateGeneric.pdb

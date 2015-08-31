@@ -1,0 +1,6 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\bin\Debug\Delegates.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\bin\Debug\Delegates.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\bin\Debug\Delegates.pdb
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\obj\Debug\Delegates.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\Home-Exercises\Delegates\obj\Debug\Delegates.pdb

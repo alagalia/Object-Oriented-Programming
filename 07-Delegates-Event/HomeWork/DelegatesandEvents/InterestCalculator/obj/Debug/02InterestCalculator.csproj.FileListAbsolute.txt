@@ -1,0 +1,3 @@
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\InterestCalculator\obj\Debug\InterestCalculator.exe
+D:\SOFT UNI\C#\OOP\07-Delegates-Event\HomeWork\DelegatesandEvents\InterestCalculator\obj\Debug\InterestCalculator.pdb
