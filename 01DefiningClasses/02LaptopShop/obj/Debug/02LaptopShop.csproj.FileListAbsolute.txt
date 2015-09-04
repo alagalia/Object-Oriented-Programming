@@ -1,0 +1,6 @@
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe.config
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.exe
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\bin\Debug\02LaptopShop.pdb
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.exe
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.pdb
+C:\Users\GOS\Desktop\OOP\01DefiningClasses\02LaptopShop\obj\Debug\02LaptopShop.csprojResolveAssemblyReference.cache
